@@ -1,0 +1,27 @@
+{
+  "name": "w1d5",
+  "version": "1.0.0",
+  "description": "learning npm and package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samantha Kania",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/samanthakania/npm-package-exercise.git"
+  },
+  "keywords": [
+    "installing",
+    "npm",
+    "chalk"
+  ],
+  "bugs": {
+    "url": "https://github.com/samanthakania/npm-package-exercise/issues"
+  },
+  "homepage": "https://github.com/samanthakania/npm-package-exercise#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
